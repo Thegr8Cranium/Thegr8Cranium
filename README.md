@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Thegr8Cranium
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning front end developement.
+- 🌱 I’m currently learning web developemt.
+- I am learning Html, CSS, JavaScript, React, PHP and Laravel.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me.
 - twitter.com/thegr8cranium
